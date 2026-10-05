@@ -32,6 +32,16 @@ Programms; hier liegt die vollständige, lauffähige Fassung. Jedes Programm pr�
 | `kap12/` | 12 Kohonen-Karten: Ordnung ohne Lehrer | `farbkarte.py` - Eine Kohonen-Karte ordnet Farben auf einem 10x10-Gitter |
 | `kap12/` | 12 Kohonen-Karten: Ordnung ohne Lehrer | `gitter_flaeche.py` - Ein Gitter aus 8x8 Neuronen legt sich über ein Quadrat |
 | `kap13/` | 13 Weitere Wege: ART, Fuzzy und Radialbasis | `fuzzy_heizung.py` - Ein Fuzzy-Regler stellt das Ventil einer Heizung nach der Raumtemperatur ein |
+| `kap14/` | 14 Winter und Frühling | `matrix_messung.py` - Wie schnell ist eine Matrixmultiplikation in reinem Python, wie schnell mit NumPy? |
+| `kap15/` | 15 Faltungsnetze: Maschinen lernen sehen | `faltungsnetz.py` - Kantenfilter auf einem Ziffernbild und ein Mini-Faltungsnetz, das Striche unterscheidet |
+| `kap16/` | 16 Folgen und Gedächtnis: rekurrente Netze und LSTM | `naechster_buchstabe.py` - Ein rekurrentes Netz lernt, den nächsten Buchstaben eines kleinen Reims vorherzusagen |
+| `kap17/` | 17 Wörter als Zahlen | `wortvektoren.py` - Wortvektoren aus gemeinsamem Vorkommen zählen und nächste Nachbarn finden |
+| `kap18/` | 18 Aufmerksamkeit und Transformer | `aufmerksamkeit.py` - Aufmerksamkeit von Hand: Wer gehört in "Lea ruft Tom, er kommt" zu wem? |
+| `kap19/` | 19 Große Sprachmodelle | `bigramm_maerchen.py` - Ein Bigramm-Sprachmodell lernt aus einem kleinen Märchen und erzeugt neue Sätze |
+| `kap20/` | 20 Bilder erzeugen | `diffusion_punkte.py` - Eindimensionale Diffusion: Punkte verrauschen und wieder ordnen |
+| `kap21/` | 21 Lernen durch Belohnung | `labyrinth_q_lernen.py` - Ein Agent lernt ein kleines Labyrinth allein durch Belohnung (Q-Lernen) |
+| `kap22/` | 22 Grenzen, Risiken, Verantwortung | `bewerbung_schieflage.py` - Ein lernendes Modell übernimmt die Schieflage aus erfundenen Bewerbungsdaten |
+| `kap23/` | 23 Ausblick: Netze und Gehirne | `impuls_gegen_zahl.py` - Ein Impulsneuron und ein Rechenneuron bekommen dieselbe Szene |
 <!-- inhalt:ende -->
 
 ## Starten
